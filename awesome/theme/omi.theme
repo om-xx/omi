@@ -1,0 +1,29 @@
+font = monospace 8
+ 
+fg_normal     = #DCDCCC
+fg_focus      = #F0DFAF
+fg_urgent     = #CC9393
+bg_normal     = #3F3F3F
+bg_focus      = #1E2320
+bg_urgent     = #3F3F3F
+
+# Windows border styles
+border_width  = 1
+border_normal = #3F3F3F
+border_focus  = #1E2320
+border_marked = #CC9393
+
+# Titlebar styles
+titlebar_bg_focus  = #3F3F3F
+titlebar_bg_normal = #3F3F3F
+
+# Widget Styles
+fg_widget        = #AECF96
+fg_center_widget = #88A175
+fg_end_widget    = #FF5656
+fg_off_widget    = #494B4F
+fg_netup_widget  = #7F9F7F
+fg_netdn_widget  = #CC9393
+bg_widget        = #3F3F3F
+border_widget    = #3F3F3F
+#wallpaper_cmd = awsetbg /home/omi/pictures/the_rise_of_a_planet.jpg
